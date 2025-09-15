@@ -28,6 +28,6 @@ This project analyzes **Airbnb listings data** to explore pricing trends, custom
 ## 🛠 Tools & Technologies  
 - **Tableau Public** – Visualization and storytelling.  
 - **Excel/CSV** – Dataset preparation.  
-- **SQL ** – Data cleaning & queries.  
+- **SQL** – Data cleaning & queries.  
 
 ---
